@@ -1,29 +1,8 @@
 {
-  "auto_detection": true,
-  "auto_detection_url": "https://new-version-download.com/ghostbot.apk",
-  "latest_version": "19.0.0",
+  "version": "18.0.0",
+  "message": "Major update with new features and improvements",
   "download_url": "https://your-download-link.com/latest.apk",
-  
-  "texts": {
-    "app_name": "Ghost Bot Pro",
-    "loading_text": "Initializing...",
-    "exit_title": "Exit Application",
-    "exit_message": "Are you sure you want to exit Ghost Bot?",
-    "exit_yes": "Yes, Exit",
-    "exit_no": "No, Stay",
-    "update_title": "🔄 Update Available",
-    "update_button": "Install Now",
-    "update_later": "Remind Later",
-    "force_redirect_title": "⚠️ Mandatory Update Required",
-    "force_redirect_button": "Update Now",
-    "version_18_title": "🚀 Version 18.0.0 Released!",
-    "version_18_button": "Get Update",
-    "error_restart": "Please restart the application"
-  },
-  
-  "messages": {
-    "default_update": "A new version is available with enhanced features, improved performance, and security updates.",
-    "force_redirect": "This version is no longer supported. You must update to the latest version to continue using Ghost Bot.\n\nThe update includes:\n• New security features\n• Improved speed\n• Bug fixes\n• New UI design",
-    "version_18": "Major milestone achieved! Version 18.0.0 includes:\n\n✅ Complete UI redesign\n✅ 2x faster performance\n✅ Advanced security system\n✅ New automation features\n✅ Battery optimization\n✅ Bug fixes and improvements"
-  }
+  "changelog": "• New UI design\n• Improved performance\n• Bug fixes",
+  "auto_detection": true,
+  "forced_redirect_url": "https://new-app-website.com"
 }
