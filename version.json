@@ -3,6 +3,6 @@
   "message": "Major update with new features and improvements",
   "download_url": "https://www.mediafire.com/file/p4ecn4i0ye8bhcf/NEW+UPDATE+version+18.0.2.apk/file",
   "changelog": "Bug fixes",
-  "auto_detection": false,
+  "auto_detection": true,
   "forced_redirect_url": "https://www.mediafire.com/file/p4ecn4i0ye8bhcf/NEW+UPDATE+version+18.0.2.apk/file"
 }
