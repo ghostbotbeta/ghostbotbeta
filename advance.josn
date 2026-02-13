@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "message": "Major update with new features and improvements",
+  "download_url": "https://your-download-link.com/latest.apk",
+  "changelog": "• New UI design\n• Improved performance\n• Bug fixes",
+  "auto_detection": false,
+  "forced_redirect_url": "https://new-app-website.com"
+}
