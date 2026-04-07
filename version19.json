@@ -6,7 +6,7 @@
   "auto_detection": false,
   "forced_redirect_url": "https://new-app-website.com",
   "custom_dialog": {
-    "enabled": false,
+    "enabled": true,
     "title": "إشعار مهم",
     "content": "هذا نص الرسالة التي تريد عرضها للمستخدم",
     "button_text": "حسناً",
