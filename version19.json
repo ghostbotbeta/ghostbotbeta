@@ -3,7 +3,7 @@
   "message": "Major update with new features and improvements",
   "download_url": "https://your-download-link.com/latest.apk",
   "changelog": "• New UI design\n• Improved performance\n• Bug fixes",
-  "auto_detection": false,
+  "auto_detection": true,
   "forced_redirect_url": "https://new-app-website.com",
   "custom_dialog": {
     "enabled": true,
