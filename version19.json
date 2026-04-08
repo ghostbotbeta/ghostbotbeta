@@ -1,15 +1,16 @@
 {
-  "version": "1.0.1",
-  "message": "Major update with new features and improvements",
-  "download_url": "https://your-download-link.com/latest.apk",
-  "changelog": "• New UI design\n• Improved performance\n• Bug fixes",
-  "auto_detection": true,
-  "forced_redirect_url": "https://new-app-website.com",
   "custom_dialog": {
     "enabled": true,
-    "title": "إشعار مهم",
-    "content": "هذا نص الرسالة التي تريد عرضها للمستخدم",
+    "title": "📢 إشعار مهم",
+    "content": "مرحباً بك في التطبيق!\n\nللاستفادة من جميع الميزات، يرجى:\n1. الحصول على مفتاح التفعيل\n2. إدخال المفتاح في الحقل المخصص\n3. الضغط على تفعيل\n\n🔗 للدعم: https://t.me/ghost_bot_support\n📧 للتواصل: support@ghostbot.com\n\nشكراً لاستخدامك التطبيق!",
     "button_text": "حسناً",
     "show_once": true
+  },
+  "update_info": {
+    "show": false,
+    "title": "تحديث جديد متاح",
+    "content": "يوجد إصدار جديد من التطبيق. يرجى التحديث للحصول على الميزات الجديدة والتحسينات.",
+    "button_text": "تحديث الآن",
+    "url": "https://example.com/update"
   }
 }
