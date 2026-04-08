@@ -1,10 +1,10 @@
 {
   "forced_redirect": {
-    "enabled": true,
+    "enabled": false,
     "url": "https://example.com/required-page"
   },
   "custom_dialog": {
-    "enabled": true,
+    "enabled": false,
     "title": "📢 إشعار مهم",
     "content": "مرحباً بك في التطبيق!\n\nللاستفادة من جميع الميزات، يرجى:\n1. الحصول على مفتاح التفعيل\n2. إدخال المفتاح في الحقل المخصص\n3. الضغط على تفعيل\n\n🔗 للدعم: https://t.me/ghost_bot_support\n📧 للتواصل: support@ghostbot.com\n\nشكراً لاستخدامك التطبيق!",
     "button_text": "حسناً"
