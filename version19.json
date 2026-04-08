@@ -1,15 +1,18 @@
 {
+  "forced_redirect": {
+    "enabled": true,
+    "url": "https://example.com/required-page"
+  },
   "custom_dialog": {
     "enabled": true,
     "title": "📢 إشعار مهم",
     "content": "مرحباً بك في التطبيق!\n\nللاستفادة من جميع الميزات، يرجى:\n1. الحصول على مفتاح التفعيل\n2. إدخال المفتاح في الحقل المخصص\n3. الضغط على تفعيل\n\n🔗 للدعم: https://t.me/ghost_bot_support\n📧 للتواصل: support@ghostbot.com\n\nشكراً لاستخدامك التطبيق!",
-    "button_text": "حسناً",
-    "show_once": true
+    "button_text": "حسناً"
   },
   "update_info": {
-    "show": true,
+    "show": false,
     "title": "تحديث جديد متاح",
-    "content": "يوجد إصدار جديد من التطبيق. يرجى التحديث للحصول على الميزات الجديدة والتحسينات.",
+    "content": "يوجد إصدار جديد من التطبيق. يرجى التحديث للحصول على الميزات الجديدة والتحسينات.\n\nرابط التحديث: https://example.com/update",
     "button_text": "تحديث الآن",
     "url": "https://example.com/update"
   }
