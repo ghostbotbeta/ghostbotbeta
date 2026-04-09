@@ -4,16 +4,16 @@
     "url": "https://example.com/required-page"
   },
   "custom_dialog": {
-    "enabled": false,
-    "title": "📢 إشعار مهم",
-    "content": "مرحباً بك في التطبيق!\n\nللاستفادة من جميع الميزات، يرجى:\n1. الحصول على مفتاح التفعيل\n2. إدخال المفتاح في الحقل المخصص\n3. الضغط على تفعيل\n\n🔗 للدعم: https://t.me/ghost_bot_support\n📧 للتواصل: support@ghostbot.com\n\nشكراً لاستخدامك التطبيق!",
-    "button_text": "حسناً"
+    "enabled": true,
+    "title": "📢 إشعار مهم | Important Notice",
+    "content": "أي شخص يظهر له خطأ في الشبكة لا تقلق.\nفقط قم بإغلاق البوت بالكامل وإغلاق لعبة فري فاير، ثم أعد تشغيلهما من جديد.\nسيعمل كل شيء بشكل طبيعي. هذا ليس مشكلًا في البوت، بل مجرد ضغط على السيرفر لأن الجميع يستخدم نفس الإصدار في نفس الوقت.\n\n---\n\nIf anyone gets a network error, don’t worry.\nJust close the bot completely and close the Free Fire game, then restart them again.\nEverything should work normally. This is not a problem with the bot, it's just server overload because everyone is using the same version at the same time.",
+    "button_text": "حسناً | OK"
   },
   "update_info": {
     "show": false,
-    "title": "تحديث جديد متاح",
-    "content": "يوجد إصدار جديد من التطبيق. يرجى التحديث للحصول على الميزات الجديدة والتحسينات.\n\nرابط التحديث: https://example.com/update",
-    "button_text": "تحديث الآن",
+    "title": "تحديث جديد متاح | New Update Available",
+    "content": "يوجد إصدار جديد من التطبيق. يرجى التحديث للحصول على الميزات الجديدة والتحسينات.\n\nرابط التحديث: https://example.com/update\n\nA new version of the app is available. Please update to get new features and improvements.\n\nUpdate link: https://example.com/update",
+    "button_text": "تحديث الآن | Update Now",
     "url": "https://example.com/update"
   }
 }
