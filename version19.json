@@ -4,7 +4,7 @@
     "url": "https://example.com/required-page"
   },
   "custom_dialog": {
-    "enabled": true,
+    "enabled": false,
     "title": "📢 إشعار مهم | Important Notice",
     "content": "أي شخص يظهر له خطأ في الشبكة لا تقلق.\nفقط قم بإغلاق البوت بالكامل وإغلاق لعبة فري فاير، ثم أعد تشغيلهما من جديد.\nسيعمل كل شيء بشكل طبيعي. هذا ليس مشكلًا في البوت، بل مجرد ضغط على السيرفر لأن الجميع يستخدم نفس الإصدار في نفس الوقت.\n\n---\n\nIf anyone gets a network error, don’t worry.\nJust close the bot completely and close the Free Fire game, then restart them again.\nEverything should work normally. This is not a problem with the bot, it's just server overload because everyone is using the same version at the same time.",
     "button_text": "حسناً | OK"
