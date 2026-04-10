@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "message": "Major update with new features and improvements",
-  "download_url": "https://your-download-link.com/latest.apk",
+  "version": "1.0.8",
+  "message": "update x19",
+  "download_url": "https://youtu.be/TiXDyNA2mis?si=s6iKYplz7Y4-_Uxz",
   "changelog": "• New UI design\n• Improved performance\n• Bug fixes",
-  "auto_detection": false,
-  "forced_redirect_url": "https://youtu.be/TiXDyNA2mis?si=nQbQ3QrAscSPepA9"
+  "auto_detection": true,
+  "forced_redirect_url": "https://youtu.be/TiXDyNA2mis?si=s6iKYplz7Y4-_Uxz"
 }
