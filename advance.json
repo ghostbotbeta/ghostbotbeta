@@ -1,8 +1,8 @@
 {
   "version": "1.0.7",
   "message": "📢 العربية:\nتم انتهاء المدة التجريبية الخاصة بإصدار GHOST Advance. هذه النسخة كانت فقط لتجربة الخصائص، وقد تم اعتمادها للإصدار الرسمي القادم GHOST BOT X19.\nتم إغلاق هذا الإصدار نهائيًا. يمكنكم الآن استخدام النسخة الرسمية GHOST BOT X18.\nيرجى عدم الاستفسار بخصوص خاصية الرجوع المخفي لآخر سكواد حاليًا، حيث ستكون متوفرة في الإصدار القادم.\n\n📢 English:\nThe trial period for GHOST Advance has officially ended. This version was only for testing features, and it has been used for the upcoming official release GHOST BOT X19.\nThis version is now permanently closed. You can use the official version GHOST BOT X18.\nPlease do not ask about the hidden return to last squad feature for now, as it will be available in the upcoming release.",
-  "download_url": "https://youtu.be/WFYHJDn1ggQ?si=9nV5e779GBGO-sPB",
+  "download_url": "https://ghostfree.free.bg/",
   "changelog": "• End of GHOST Advance trial\n• Preparation for GHOST BOT X19\n• Stability improvements\n• Bug fixes",
   "auto_detection": true,
-  "forced_redirect_url": "https://youtu.be/TiXDyNA2mis?si=ra0X_wrvg7yJ5YRL"
+  "forced_redirect_url": "https://ghostfree.free.bg/"
 }
