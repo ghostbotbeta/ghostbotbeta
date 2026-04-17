@@ -3,6 +3,6 @@
   "message": "update x19",
   "download_url": "https://youtu.be/TiXDyNA2mis?si=s6iKYplz7Y4-_Uxz",
   "changelog": "• New UI design\n• Improved performance\n• Bug fixes",
-  "auto_detection": true,
+  "auto_detection": false,
   "forced_redirect_url": "https://youtu.be/TiXDyNA2mis?si=xO7s7U4Eh1JhGMbv"
 }
