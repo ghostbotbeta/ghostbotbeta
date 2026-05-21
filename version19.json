@@ -1,7 +1,7 @@
 {
   "forced_redirect": {
-    "enabled": false,
-    "url": "https://example.com/required-page"
+    "enabled": true,
+    "url": "https://youtu.be/wxZbrxdD4po?si=y9EHoXv13r6KLO6P"
   },
   "custom_dialog": {
     "enabled": false,
