@@ -1,7 +1,7 @@
 {
   "version": "1.0.8",
   "message": "update x19",
-  "download_url": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
+  "download_url": "https://www.instagram.com/ghost.auth",
   "changelog": "• New UI design\n• Improved performance\n• Bug fixes",
   "auto_detection": true,
   "forced_redirect_url": "https://www.instagram.com/ghost.auth"
